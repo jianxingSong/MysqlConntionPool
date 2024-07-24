@@ -1,0 +1,11 @@
+{
+  "ip": "localhost",
+  "port": 3306,
+  "userName": "connect_pool",
+  "password": "239070",
+  "dbName": "selectTest",
+  "minSize": 5000,
+  "maxSize": 10000,
+  "maxIdleTime": 50000,
+  "timeout": 1000
+}
